@@ -151,3 +151,9 @@ std::unique_ptr<int> pointer2 = pointer; // 非法
 ### weak_ptr
 
 shared_ptr可能内存泄漏，weak_ptr不会导致计数增加
+
+
+
+## more
+
+https://www.zhihu.com/column/c_1258436207199174656
